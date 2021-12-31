@@ -1,2 +1,2 @@
-# Javascript-Clock
-A clock runs in javascript and in html
+# Html-Digital-Clock
+A Digital clock runs in javascript and in html
