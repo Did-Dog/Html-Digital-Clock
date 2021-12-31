@@ -1,10 +1,13 @@
 # Html-Digital-Clock
 A Digital clock runs in javascript and in html
 
-# References
+## References
 - https://phpcoder.tech/display-current-date-and-time-in-html-using-javascript/
 
 - https://onecompiler.com/html
+
+## Faicon Link
+- https://www.flaticon.com/premium-icon/digital-clock_1907154?term=digital%20clock&page=1&position=8&page=1&position=8&related_id=1907154&origin=tag
 
 ## Live Demo
 
