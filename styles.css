@@ -1,6 +1,36 @@
-body{
-  padding: 25px;
+body {
+  padding: 50px;
+  background: #e8e8e8;
 }
-.title {
-	color: #5C6AC4;
+
+.text {
+  text-align: center;
+  color: #ffffff;
+}
+
+.round {
+
+  border: 2px solid #e8e8e8;
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+
+  margin-left: 20px;
+  box-shadow: 6px 6px 12px #c5c5c5,
+    -6px -6px 12px #ffffff;
+}
+
+.title1 {
+  color: #6158cc;
+  text-align: center;
+  padding-top: 110px;
+  font-size:60px;
+}
+
+.title2 {
+  color: #6158cc;
+  text-align: center;
+  font-weight: 200;
+
+
 }

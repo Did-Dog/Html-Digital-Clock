@@ -27,4 +27,4 @@ A Digital clock runs in javascript and in html
 
 ***Glad to see you here! Show some love by [starring](https://github.com/Did-Dog/Html-Digital-Clock) this repo.***
 
-******
+---
